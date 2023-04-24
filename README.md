@@ -1,0 +1,1 @@
+This is a portfolio project for the Meta Front-End Developer Professional Certificate. The project involves creating a website for a fictional restaurant called "Little Lemon". The website is built using HTML and CSS in depth.
